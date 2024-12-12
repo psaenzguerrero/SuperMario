@@ -1,0 +1,17 @@
+body{
+    background-image: url(./img/fondo-blur.jpg);
+}
+h1{
+    color: rgb(37, 106, 255);
+    font-size: 70px;
+}
+
+#s1>div{
+    background-image: url(./img/fondo.jpg);
+    border-radius: 10px;
+}
+#s2{
+    background-color: lemonchiffon;
+    min-height: 40vh;
+    color: rgb(37, 106, 255);
+}
